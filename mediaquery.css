@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px) {
+    .children-content{
+        font-size: 16px !important;
+  
+    }
+    .marginclass2{
+        flex-direction: column-reverse !important;
+        text-align: center;
+        padding: 5%;
+        
+    }
+    .downloading{
+        flex-direction: column-reverse !important;
+        text-align: center;
+        padding: 5%;
+    }
+    .partition-heading{
+        text-align: center;
+        padding: 5%;
+
+    }
+    .partition-img{
+        padding: 9%;
+    }
+}
